@@ -1,26 +1,15 @@
 # Game Development 🎮
 
-A collection of games built from scratch. More coming soon.
+A collection of games built from scratch.
 
 ---
 
 ## 🕹️ Games
 
-| # | Game | Technology | Status |
-|---|---|---|---|
-| 1 | *(coming soon)* | — | 🔜 |
-| 2 | *(coming soon)* | — | 🔜 |
-| 3 | *(coming soon)* | — | 🔜 |
+| # | Game | Engine | Genre | Status |
+|---|---|---|---|---|
+| 1 | [Vehicle Controller 3D](./Vehicle%20Controller%203D/) | Godot 4 | Racing / Simulation | ✅ In Progress |
 
 ---
 
-## 🛠️ Technologies I Plan To Use
-
-- **Python** — Pygame, Tkinter
-- **C / C++** — SDL2, SFML
-- **Web** — HTML5 Canvas, JavaScript
-- **Unity** — C#
-
----
-
-*Each game will live in its own folder with its own README, source code, and assets.*
+*Each game lives in its own folder with full source code, assets, and documentation.*
