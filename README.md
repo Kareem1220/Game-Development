@@ -1,6 +1,6 @@
 # Game Development 🎮
 
-A collection of games built from scratch.
+A collection of games built from scratch using Godot 4.
 
 ---
 
@@ -8,7 +8,8 @@ A collection of games built from scratch.
 
 | # | Game | Engine | Genre | Status |
 |---|---|---|---|---|
-| 1 | [Vehicle Controller 3D](./Vehicle%20Controller%203D/) | Godot 4 | Racing / Simulation | ✅ In Progress |
+| 1 | [First Game](./First%20Game/) | Godot 4 | 2D Platformer | ✅ In Progress |
+| 2 | [Vehicle Controller 3D](./Vehicle%20Controller%203D/) | Godot 4 | Racing / Simulation | ✅ In Progress |
 
 ---
 
